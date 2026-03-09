@@ -1,0 +1,4 @@
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\bin\Release\Tiger.BT.BiztalkConfiguration.dll
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\bin\Release\Tiger.BT.BiztalkConfiguration.pdb
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\obj\Release\Tiger.BT.BiztalkConfiguration.dll
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\obj\Release\Tiger.BT.BiztalkConfiguration.pdb

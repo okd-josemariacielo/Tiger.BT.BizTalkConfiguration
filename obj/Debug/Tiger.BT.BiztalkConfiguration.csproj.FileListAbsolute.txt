@@ -1,0 +1,5 @@
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\bin\Debug\Tiger.BT.BiztalkConfiguration.dll
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\bin\Debug\Tiger.BT.BiztalkConfiguration.pdb
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\obj\Debug\Tiger.BT.BiztalkConfiguration.dll
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\obj\Debug\Tiger.BT.BiztalkConfiguration.pdb
+C:\Ritz\Tiger.BT.BiztalkConfiguration\Tiger.BT.BiztalkConfiguration\obj\Debug\Tiger.BT.BiztalkConfiguration.csprojResolveAssemblyReference.cache
